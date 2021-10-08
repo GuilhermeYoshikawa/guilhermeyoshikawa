@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo(a)! 😉
+## Olá! Seja bem-vindo(a)! 😉
    
    - 🎓 Me chamo Guilherme e estou no último semestre do curso de Ciência da Computação.
    
