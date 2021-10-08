@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a)! 😉
    
-   - 🧑‍🎓 Me chamo Guilherme e estou no último semestre do curso de Ciência da Computação.
+   - 🎓 Me chamo Guilherme e estou no último semestre do curso de Ciência da Computação.
    
    - 📧 Para mais informações, entre em contato comigo através do meu e-mail ou LinkedIn.
    
